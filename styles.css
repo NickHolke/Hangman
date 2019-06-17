@@ -1,0 +1,15 @@
+#myCanvas {
+    background-color: #B4D3D4;
+    margin: auto;
+    display: block;
+}
+
+#input {
+    display: block;
+    margin: 0 auto;
+}
+
+#submit{
+  display: block;
+  margin: 0 auto;
+}
